@@ -17,7 +17,7 @@ namespace ProyectoSENOVA
             //miProyecto3.IngresarProyecto();
             //miProyecto3.ImprimirProyecto();
             //miProyecto4.ImprimirProyecto();
-            miProyecto5.ImprimirProyecto();
+           // miProyecto5.ImprimirProyecto();
 
 
             /* miProyecto.Area = "Sistemas";
