@@ -22,6 +22,7 @@ namespace ProyectoSENOVA
         public Proyecto( string nombre, double codigo, string area , int duracion)
         {
             Nombre = nombre;
+            Nombre33 = nombre;
             Codigo = codigo;
             Area = area;
             Duracion = duracion;
